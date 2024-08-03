@@ -8,3 +8,5 @@ A small event that revolves about solving adventofcode.com event's problems
   
   -- after solving make a push request including your solution file, the repo if splitted into folders
   each folder contains a specific programming language you should put your solution file int the appropriate folder.
+
+  -- if you couldn't find the appropriate file just make one and it with Programming language you are using.
